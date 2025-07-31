@@ -1,10 +1,20 @@
 
+
+
+
+
+
 .header-image {
-    height: 100px;
-    width: 100px;
+    width: 10%;
+    height: auto;
+}
+
+.post-header-content-image {
+    width: 30%;
+    height: auto;
 }
 
 .content-image {
-    height: 100px;
-    width: 100px;
+    width: 15%;
+    height: auto;
 }
