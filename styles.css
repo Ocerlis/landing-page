@@ -56,22 +56,35 @@ ul {
 
 .post-header {
   display: flex;
+  padding: 30px;
 }
 
 .post-header-text {
-  display: column;
+  font-size: 18px;
   color: #e5e7eb;
 }
 
-.hero-text {
+#hero-text {
+  color: #F9FAF8;
   font-size: 48px;
   font-weight: 900;
 }
 
+button {
+  background-color: #3882F6;
+  border: none;
+  font-size: 15px;
+  padding: 5px 25px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
 
-
+#post-header-button {
+    color: white;
+}
 
 .content-image {
     width: 15%;
     height: auto;
 }
+
