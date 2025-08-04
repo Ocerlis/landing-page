@@ -85,25 +85,25 @@ button {
 }
 
 #post-header-button {
-    color: white;
-    margin-top: 20px;
+  color: white;
+  margin-top: 20px;
 }
 
 /* styles for info part */
 
 .content-image {
-    width: 70%;
-    max-width: 300px;
-    height: auto;
-    border-radius: 30px;
-    padding: 10px;
+  width: 70%;
+  height: auto;
+  border-radius: 30px;
+  padding: 10px;
+  max-width: 300px;
 }
 
 .info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
 }
 
 .item {
@@ -125,6 +125,8 @@ button {
     display: flex;
 }
 
+/* styles for quote section */
+
 .quote {
   padding: 50px;
   display: flex;
@@ -144,4 +146,16 @@ button {
   text-align: end;
   margin-right: 20px;
   font-size: 25px;
+}
+
+
+/* styles for alert section */
+
+.alert {
+  background-color: #3882F6;
+  display: flex;
+}
+
+.alert-text {
+  
 }
