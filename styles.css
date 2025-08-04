@@ -6,6 +6,8 @@ body {
     margin: 0;
 }
 
+/* header styles */
+
 a {
   text-decoration: none;
   color: #e5e7eb;
@@ -21,6 +23,7 @@ ul {
   list-style-type: none;
   margin-right: 20px;
 }
+
 
 .header {
     display: flex;
@@ -38,9 +41,13 @@ ul {
     margin-left: 20px;
 }
 
+/* header and post-header styles */
+
 .main-info {
     background-color:  #1F2937;
 }
+
+/* post-header styles */
 
 .post-header-content-image {
     width: 30%;
