@@ -35,7 +35,7 @@ ul {
 }
 
 .header-logo {
-    color: white;
+    color: #e5e7eb;
     font-size: 24px;
     font-weight: 700;
     margin-left: 20px;
@@ -53,6 +53,23 @@ ul {
     width: 30%;
     height: auto;
 }
+
+.post-header {
+  display: flex;
+}
+
+.post-header-text {
+  display: column;
+  color: #e5e7eb;
+}
+
+.hero-text {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+
+
 
 .content-image {
     width: 15%;
