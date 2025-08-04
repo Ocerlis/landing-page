@@ -158,5 +158,17 @@ button {
 .alert-container {
   display: flex;
   background-color: #3882F6;
+  justify-content: space-around;
   font-size: 20px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.alert-text {
+  color: #F9FAF8;
+  padding: 20px;
+}
+
+#call-to-action {
+  font-size: 30px;
 }
