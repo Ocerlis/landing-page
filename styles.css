@@ -152,10 +152,11 @@ button {
 /* styles for alert section */
 
 .alert {
-  background-color: #3882F6;
-  display: flex;
+  padding: 70px;
 }
 
-.alert-text {
-  
+.alert-container {
+  display: flex;
+  background-color: #3882F6;
+  font-size: 20px;
 }
